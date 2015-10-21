@@ -2,3 +2,6 @@
 */node_modules
 */venv
 */npm-debug.log
+venv/
+**/__pycache__
+**/*.csv
