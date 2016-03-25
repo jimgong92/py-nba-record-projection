@@ -5,4 +5,4 @@ from .sources.espn import ingest_rpm
 def ingest():
   ingest_players()
   # ingest_win_shares()
-  # ingest_rpm()
+  ingest_rpm()

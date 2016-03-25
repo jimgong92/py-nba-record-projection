@@ -6,5 +6,5 @@ app = Flask(__name__)
 ingest()
 
 if (__name__):
-  app.run()
+  app.run(port=5050)
   
